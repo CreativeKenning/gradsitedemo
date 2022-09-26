@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
+title: Daniel G. Heslep
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /gradsitedemo #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
