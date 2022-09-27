@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Daniel G. Heslep
+title: Daniel G. Heslep and others
 description: subtitle | affiliations | motto
 
 baseurl: /gradsitedemo #name of GitHub repository
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "notmytwitter"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
