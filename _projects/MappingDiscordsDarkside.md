@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Mapping Discord's Darkside, Distributed Hate-Networks on Disboard
+description: An exploration of Discord's technoculture using data collected from the third-party search board, Disboard.
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
