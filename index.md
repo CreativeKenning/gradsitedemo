@@ -2,13 +2,10 @@
 layout: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+[Daniel Heslep](https://mobatta2.github.io/gradsitedemo/){:target="_blank"} is a PHD candidate with the University of Central Florida. He recieved his Masters in Fine Arts, and Masters in Rhetoric and Composition, from the University of Alabama. His most recent publication can be found in [New Media and Society](https://journals.sagepub.com/doi/abs/10.1177/14614448211062548){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
