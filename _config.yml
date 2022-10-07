@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Daniel G. Heslep and others
-description: subtitle | affiliations | motto
+description: PHD Candidate | Unviersity of Central Florida | 
 
 baseurl: /gradsitedemo #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "notmytwitter"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+twitter: "@danielheslep"
+orcid: "https://orcid.org/0000-0001-9229-5085"
+
 
 
 # Markdown
