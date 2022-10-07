@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: DARCmode.org
+description: A link to the DARC!
+redirect: https://darcmode.org
 ---
