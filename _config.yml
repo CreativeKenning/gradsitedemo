@@ -5,7 +5,7 @@ description: PHD Candidate | Unviersity of Central Florida |
 
 baseurl: /gradsitedemo #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: dgheslep@knights.ucf.edu
 
 # Pagination
 paginate: 4
