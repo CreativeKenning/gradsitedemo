@@ -8,7 +8,7 @@ Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/qui
 H1 Header
 ============
 
-![Book Cover](/gradsitedemo/assets/images/pandemic.jpg "Playful Pedagogy")
+![Book Cover](/gradsitedemo/assets/images/lich.png "Playful Pedagogy")
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
