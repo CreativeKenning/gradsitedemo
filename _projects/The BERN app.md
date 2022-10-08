@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 4
+title: The Organazing Game, Suprapaplatofrm and the BERN app
 description: another project
 ---
 
