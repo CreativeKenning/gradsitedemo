@@ -7,7 +7,7 @@ description: An Argument for Revitalized, Community-Integrated Political Organiz
 Rhetorical Realism and the Organizing Game: Apps, and the Unrealized Potential of Activist Supraplatform (Under Construction!)
 ============
 
-Beginning with my frustration at the design of the BERN app, I theorize that private pseudonyomous, webhook integrated spaces (ala Telegram and Discord), can provide the motivating structures for webhook-mediated in-app actions. This article is currently being revised for submission.
+Beginning with my frustration at the design of the BERN app, I theorize that private pseudonyomous, webhook integrated spaces (ala Telegram and Discord), can provide the motivating structures for webhook-mediated app-based activism. This article is currently being revised for submission.
 
 Abstract
 ------------
