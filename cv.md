@@ -5,7 +5,7 @@ title: CV
 published: true
 ---
 
-**Daniel Grant Heslep**
+# Daniel Grant Heslep
 
   -----------------------------------------------------------------------
   316 Caplewood Drive • Tuscaloosa AL 35401 • 507-363-1759 •
@@ -14,7 +14,7 @@ published: true
 
   -----------------------------------------------------------------------
 
-**Education**
+## Education**
 
 **Bachelor of Arts, St. Olaf College**: 2013-2017, Northfield, MN
 
@@ -31,7 +31,7 @@ Semester 1.
 **Master of Composition and Rhetoric, University of Alabama:** Expected
 May 2022
 
-**Teaching Experience**
+## Teaching Experience
 
 **Martin Luther Schule, Rimbach: August 2017-January 2018**
 
@@ -75,7 +75,7 @@ Instructor of Record: EN 102 323/325 Spring 2021**
 
 -   Generally taught during a Pandemic
 
-**Publications and Conferences**
+## Publications and Conferences
 
 **Console-ing Passions 2022:**
 
