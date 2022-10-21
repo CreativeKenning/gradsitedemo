@@ -91,12 +91,12 @@ Networks on Disboard"
 -   Addressed critical gaps in the field on both Discord, and platform
     ecologies
 
-**Association of Internet Researchers (AoIR):** October 12^th^-16^th^
+**Association of Internet Researchers (AoIR):** October 12th-16th
 2021
 
 -   Presented "Mapping Discord's Darkside"
 
-**University of Alabama Languages Conference:** February 8^th^ 2019
+**University of Alabama Languages Conference:** February 8th 2019
 
 -   Presented on the application of postcolonial theory to
     representations of marginalized others in Hemingway's Fiction
