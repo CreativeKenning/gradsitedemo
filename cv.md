@@ -18,17 +18,11 @@ published: true
 
 **Bachelor of Arts, St. Olaf College**: 2013-2017, Northfield, MN
 
-**GPA:** 3.72 **Major:** English **Concentration:** German
+**Major:** English **Concentration:** German
 
-**Awards:** Member of Sigma Tau Delta International English Honor
-Society.
-
-Dean's List: 2013-2014 Semester 1, 2014-2015 Semester 2, 2016-2017
-Semester 1.
-
-**Master of Fine Arts, University of Alabama:** Poetry, Expected May
-2022\
-**Master of Composition and Rhetoric, University of Alabama:** Expected
+**Master of Fine Arts, University of Alabama:** Poetry, May
+2022
+**Master of Composition and Rhetoric, University of Alabama:** 
 May 2022
 
 ## Teaching Experience
@@ -71,9 +65,7 @@ Instructor of Record: EN 102 323/325 Spring 2021**
 
 **Instructor of Record: EN 102-001/003 Fall 2021**
 
--   Designed a Novel syllabus based on Gaming Pedagogy ala. James Gee.
-
--   Generally taught during a Pandemic
+-   Designed a Novel syllabus based on Gaming Pedagogy for asynchronous pandemic teaching
 
 ## Publications and Conferences
 
@@ -113,7 +105,7 @@ Networks on Disboard"
 
 **Moderator of D/ARC (Discord Academic Research Network)**
 
--   Networked scholars interested in researching Discord
+-  Assisting etwork scholars interested in researching Discord
 
 **Visiting Writers Committee:** Spring 2021
 
