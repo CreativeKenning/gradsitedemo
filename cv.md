@@ -8,13 +8,13 @@ published: true
 # Daniel Grant Heslep
 
   -----------------------------------------------------------------------
-  316 Caplewood Drive • Tuscaloosa AL 35401 • 507-363-1759 •
+
   <heslepdaniel@gmail.com>
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-## Education**
+## Education
 
 **Bachelor of Arts, St. Olaf College**: 2013-2017, Northfield, MN
 
@@ -39,7 +39,7 @@ Literature**
 
 -   Lead two sections of Early British Lit under Dr. Alexandra Cook
 
-**Graduate Teaching Assistant: Spring 2019 EN 206-133/134: British
+**Graduate Teaching Assistant: Spring 2019: British
 Literature**
 
 -   Lead two sections of British Lit under Dr. James McNaughton
@@ -105,7 +105,7 @@ Networks on Disboard"
 
 **Moderator of D/ARC (Discord Academic Research Network)**
 
--  Assisting etwork scholars interested in researching Discord
+-  Assisting in growing and maintaining support for scholars interested in studying Discord, fan and Game studies, and alt-platforms.
 
 **Visiting Writers Committee:** Spring 2021
 
