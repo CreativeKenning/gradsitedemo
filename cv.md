@@ -44,26 +44,26 @@ Literature**
 
 -   Lead two sections of British Lit under Dr. James McNaughton
 
-**Instructor of Record EN 101-126/140: Fall 2019**
+**Instructor of Record, two sections of Composition:  Fall 2019**
 
-**Instructor of Record EN 102-149: Spring 2020**
+**Instructor of Record, one section of Compostion:  Spring 2020**
 
 **Writing Tutor: Spring 2020**
 
 -   Worked with students of all levels on elements of composition,
     clarity, and style
 
-**Instructor of Record: Fall 2020 EN 303**
+**Instructor of Record: Poetry Composition, Fall 2020**
 
 -   Designed and lead an introductory poetry workshop
 
 -   Integrated workshops into Discord---a dynamic social platform---to
     adapt to social distancing
 
-**Instructor of Record: Fall 2020 EN 102\
-Instructor of Record: EN 102 323/325 Spring 2021**
+**Instructor of Record, Compostion: Fall 2020**
+**Instructor of Record, two sections of Composition: Spring 2021**
 
-**Instructor of Record: EN 102-001/003 Fall 2021**
+**Instructor of Record two sections of Composition: Fall 2021**
 
 -   Designed a Novel syllabus based on Gaming Pedagogy for asynchronous pandemic teaching
 
@@ -80,7 +80,7 @@ Networks on Disboard"
 -   Published mine and PS Berge's research on hate-networks on Disboard,
     a site dedicated to networking Discord servers
 
--   Addressed critical gaps in the field on both Discord, and platform
+-   Addressed critical gaps in research on both Discord and platform
     ecologies
 
 **Association of Internet Researchers (AoIR):** October 12th-16th
