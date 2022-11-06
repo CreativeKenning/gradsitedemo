@@ -101,7 +101,7 @@ Networks on Disboard"
 
 -   Published book review of Larry Levis' *The Darkening Trapeze*
 
-**Service**
+## Service 
 
 **Moderator of D/ARC (Discord Academic Research Network)**
 
