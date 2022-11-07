@@ -17,10 +17,11 @@ published: true
 
 **Bachelor of Arts, St. Olaf College**: 2013-2017, Northfield, MN
 
-**Major:** English **Concentration:** German
+**Major:** English          **Concentration:** German
 
 **Master of Fine Arts, University of Alabama:** Poetry, May
 2022
+
 **Master of Composition and Rhetoric, University of Alabama:** 
 May 2022
 
