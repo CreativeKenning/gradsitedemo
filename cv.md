@@ -61,6 +61,7 @@ Literature**
     adapt to social distancing
 
 **Instructor of Record, Compostion: Fall 2020**
+
 **Instructor of Record, two sections of Composition: Spring 2021**
 
 **Instructor of Record two sections of Composition: Fall 2021**
