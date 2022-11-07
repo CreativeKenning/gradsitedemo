@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suprapaplatforms and the BERN app
-description: An Argument for Revitalized, Community-Integrated Political Organizing Apps.
+description: An argument for community-integrated political organizing apps.
 ---
 
 Rhetorical Realism and the Organizing Game: Apps, and the Unrealized Potential of Activist Supraplatform (Under Construction!)
