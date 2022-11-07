@@ -29,7 +29,7 @@ May 2022
 
 **Console-ing Passions 2022:**
 
--   Presented on bot-networks as they structure and inflect sociality on
+-   Presented on bot-networks as they inflect sociality on
     Discord
 
 **New Media and Society:** "Mapping Discord's Darkside, Distributed Hate
