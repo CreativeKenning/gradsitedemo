@@ -29,7 +29,7 @@ May 2022
 
 **Martin Luther Schule, Rimbach: August 2017-January 2018**
 
--   Taught short-notice substitute lessons in German to students ages
+-   Taught substitute lessons in German to students ages
     11-14
 
 -   Guest-lectured German High-school students American social issues
