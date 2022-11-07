@@ -63,7 +63,7 @@ Networks on Disboard"
 
 **Moderator of D/ARC (Discord Academic Research Network)**
 
--  Assisting in growing and maintaining support for scholars interested in studying Discord, fan and Game studies, and alt-platforms.
+-  Assisting in growing and maintaining support for scholars interested in studying Discord, Fan and Game studies, and alt-platforms.
 
 **Visiting Writers Committee:** Spring 2021
 
