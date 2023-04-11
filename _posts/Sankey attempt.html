@@ -1,0 +1,98 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+ google.charts.load('current', {'packages':['sankey']});
+   google.charts.setOnLoadCallback(drawChart);
+ function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'From');
+        data.addColumn('string', 'To');
+        data.addColumn('number', 'Weight');
+        data.addRows([
+          ['Journal', '4chan', 1],
+          ['Conference paper', 'accessibility', 1],
+          ['Journal', 'accessibility', 1],
+          ['Blog', 'accessibility', 1],
+          ['Conference paper', 'affordances', 3],
+          ['Thesis', 'affordances', 6],
+          ['Journal', 'affordances', 4],
+          ['Journal', 'AO3', 1],
+          ['Conference paper', 'Big data', 1],
+          ['Journal', 'biopolitics', 1],
+          ['Journal', 'Blockchain', 3],
+          ['Conference paper', 'Bots', 5],
+          ['Journal', 'Bots', 5],
+          ['Journal', 'Case study', 6],
+          ['Conference paper', 'Case study', 2],
+          ['Thesis', 'Case study', 2],
+          ['Conference paper', 'Communities of care', 1],
+          ['Journal', 'Communities of care', 2],
+          ['Journal', 'Communities of learning', 6],
+          ['Conference paper', 'Communities of learning', 5],
+          ['Conference paper', 'Community discovery', 2],
+          ['Conference paper', 'Community discovery', 1],
+          ['Conference paper', 'Computer science', 4],
+          ['Conference paper', 'conferencing', 1],
+          ['Journal', 'Conferencing', 1],
+          ['Conference paper', 'COVID-19', 11],
+          ['Journal', 'COVID-19', 13],
+          ['Report', 'COVID-19', 2],
+          ['Blog', 'COVID-19', 1],
+          ['Conference paper', 'Discourse analysis', 1],
+          ['Thesis', 'Discourse analysis', 1],
+          ['Journal', 'Discourse analysis', 1],
+          ['Journal', 'Cryptocurrency', 4],
+          ['Journal', 'D/ARC', 3],
+          ['Conference Paper', 'D/ARC', 1],
+          ['Blog', 'D/ARC', 1],
+          ['Journal', 'Data Visualization', 2],
+          ['Conference paper', 'Data Visualizatoin', 1],
+          ['Journal', 'Disinformation', 1],
+          ['Conference paper', 'Distance learning', 3],
+          ['Journal', 'Distance learning', 7],
+          ['Journal', 'ethnography', 1],
+          ['Journal', 'Facebook', 1],
+          ['Journal', 'Fan studies', 3],
+          ['Thesis', 'Fan studies', 1],
+          ['Book section', 'Fan studies', 1],
+          ['Journal', 'gab', 1],
+          ['Conference paper', 'gamification', 3],
+          ['Journal', 'gamification', 2],
+          ['Book section', 'gamification', 1],
+          ['Journal', 'gaming communities', 5],
+          ['Conference paper', 'gaming communities', 2],
+          ['Thesis','gaming communities',1],
+          ['Journal','governance',1],
+          ['Conference paper','governance',1],
+          ['Journal','hate speech', 4],
+          ['Conference paper','hate speech',1],
+          ['Book section','hate speech',1],
+          ['Journal','healthcare',2],
+          ['Conference paper','inclusive design',2],
+          ['Journal','interviews',2],
+          ['Thesis','interviews',1],
+          ['Conference paper','interviews',2],
+          ['Journal','language pedagogy',3],
+          ['Conference paper','language pedagogy',1],
+          ['Conference paper','livestreaming',1],
+          ['Journal','livestreaming',1],
+          ['Journal','Mental wellbeing',1],
+          ['Conference paper','Mental wellbeing',1],
+          ['Journal','Moderation',6],
+          ['Conference paper','Moderation',4]
+        ]);
+        var options = {'title':'How Much Pizza I Ate Last Night',
+                       'width':600,
+                       'height':300};
+            var chart = new google.visualization.Sankey(document.getElementById('sankey_basic'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+
+  <body>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+  </body>
+</html>
