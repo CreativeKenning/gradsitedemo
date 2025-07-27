@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "@danielheslep"
+twitter: "danheslep.bsky.social"
 orcid: "0000-0001-9229-5085"
 github: "CreativeKenning"
 

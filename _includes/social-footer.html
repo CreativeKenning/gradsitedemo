@@ -47,7 +47,7 @@ target="_blank">
 {%- if site.twitter -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
 class="social-button twitter"
-href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
+href="https://bsky.app/profile/{{ site.twitter }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-twitter"></i>
 </a>
@@ -88,5 +88,17 @@ target="_blank">
 <i class="fab fa-brands fa-stack-overflow"></i>
 </a>
 {%- endif -%}
+
+
+<!--
+###{%- if site.bluesky -%}
+### <a title="{{ _locale_string_email }}"
+## class="social-button bluesky" itemprop="bluesky"
+ href="https://bsky.app/profile/{{ site.bluesky}}" target="_blank">
+<i class="far fa-envelope"></i>
+</a>
+{%- endif -%}
+--> 
+
 
 </div>
