@@ -14,7 +14,8 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "@danielheslep"
-orcid: "https://orcid.org/0000-0001-9229-5085"
+OrcID: "0000-0001-9229-5085"
+GitHub: "CreativeKenning"
 
 
 
