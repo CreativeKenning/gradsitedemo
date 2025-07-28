@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My Attempt at a No-Coding Scraper
+title: Simple Scraping with BeautifulSoup!
+description: A collab notebook, that leads you step-by-stp through scraping
 ---
 
 Last Summer, while working with Dr. Mel Stanfill to revise a grant proposal, I was asked if I could find them a scraper to pull information from a web-page. On doing so, I thought it might be a good opportunity to expand this small side project into something that might be useful for my colleagues; a resource which would walk the user through reading HTML tree, and scraping, in a step-by-step "no-coding-required" manner. Of course, I'm a python amateur, and a scraping amateur as well, but, I figured that making a resources for *others* would make me better at both!
