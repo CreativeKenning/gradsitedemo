@@ -6,7 +6,7 @@ published: true
 ---
 
 
-<div class="ProjectContainer">
+<div class="CProjectContainer">
 
 	<div class="gallery">
 
@@ -14,7 +14,7 @@ published: true
   {% for project in site.projects %}
 
   {% if project.redirect %}
-  <div class="projectTile">
+  <div class="CprojectTile">
           <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
@@ -26,7 +26,7 @@ published: true
 
   {% else %}
 
-  <div class="projectTile">
+  <div class="CprojectTile">
           <a href="{{ project.url | prepend: site.baseurl }}">
           <span>
               <h2>{{ project.title }}</h2>
