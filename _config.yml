@@ -4,7 +4,7 @@ title: Daniel G. Heslep
 description: PhD Candidate | Unviersity of Central Florida | 
 
 baseurl: /gradsitedemo #name of GitHub repository
-url: "DanAndSomePlatforms" #custom url to be used instead of GitHub repository
+#url: "DanAndSomePlatforms" #custom url to be used instead of GitHub repository
 email: da909317@ucf.edu
 
 # Pagination
@@ -48,7 +48,7 @@ collections:
       - redirect.md
       - TheBERNapp.md
       - Test_grap2.md
-      
+
 
 
 sass:
