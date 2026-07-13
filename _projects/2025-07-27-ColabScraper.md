@@ -4,6 +4,8 @@ title: Simple Scraping with BeautifulSoup!
 description: A collab notebook, that leads you step-by-step through scraping
 ---
 
+Simple Scraping
+---
 Last Summer, while working with Dr. Mel Stanfill to revise a grant proposal, I was asked if I could find them a scraper to pull information from a web-page. On doing so, I thought it might be a good opportunity to expand this small side project into something that might be useful for my colleagues; a resource which would walk the user through reading HTML tree, and scraping, in a step-by-step "no-coding-required" manner. Of course, I'm a python amateur, and a scraping amateur as well, but, I figured that making a resources for *others* would make me better at both!
 
 The notebook uses BeautifulSoup to attempt to guide the user through scraping in a step-by-step manner, while teaching the basics of how to read HTML and navigate along the way. [I rely heavily on "quotes.toscrape.com" throughout the notebook](https://quotes.toscrape.com/), in order to introduce users to a sample site first, which, ideally, will then let theme apply the notebooks to a site with more complicated HTML.
