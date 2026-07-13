@@ -27,7 +27,7 @@ published: true
   {% else %}
 
   <div class="projectTile">
-          <a href="{{ project.url | prepend: baseurl }}">
+          <a href="{{ project.url | prepend: base.url }}">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
