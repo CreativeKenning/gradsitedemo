@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /creativeprojects/
+permalink: /CreativeProjects/
 published: true
 ---
 
