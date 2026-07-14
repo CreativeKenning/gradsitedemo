@@ -48,6 +48,10 @@ collections:
       - redirect.md
       - TheBERNapp.md
       - Test_grap2.md
+  CreativeProjects:
+    output: true
+    permalink: /CreativeProjects/:name/
+    
 
 
 

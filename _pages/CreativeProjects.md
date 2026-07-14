@@ -11,15 +11,15 @@ published: true
 	<div class="gallery">
 
 
-  {% for project in site.projects %}
+  {% for Cproject in site.CreativeProjects %}
 
-  {% if project.redirect %}
+  {% if Cproject.redirect %}
   <div class="CprojectTile">
-          <a href="{{ project.redirect }}" target="_blank">
+          <a href="{{ Cproject.redirect }}" target="_blank">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ Cproject.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ Cproject.description }}</p>
           </span>
           </a>
   </div>
@@ -27,11 +27,11 @@ published: true
   {% else %}
 
   <div class="CprojectTile">
-          <a href="{{ project.url | prepend: site.baseurl }}">
+          <a href="{{ Cproject.url | prepend: site.baseurl }}">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ Cproject.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ Cproject.description }}</p>
           </span>
           </a>
   </div>
