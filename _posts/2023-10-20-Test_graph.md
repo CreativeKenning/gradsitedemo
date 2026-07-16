@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test graph
+
+---
+
 <html>
   <head>
     <!--Load the AJAX API-->
