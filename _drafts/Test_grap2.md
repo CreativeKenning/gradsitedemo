@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Processing Poetry
-published: no
+published: false
 ---
 
 Larry Levis, and the Shrinking Lonesome Sestina

@@ -2,7 +2,7 @@
 layout: about
 permalink: /cv/
 title: CV
-published: true
+published: false
 ---
 
 # Daniel Grant Heslep
