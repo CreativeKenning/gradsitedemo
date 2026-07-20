@@ -19,11 +19,17 @@ published: true
 
 **Major:** English          **Concentration:** German
 
+**Ph.D. texts and Technologu, University of Central Florida** 
+- Dissertation:Social Engines: Relational Labor and the Discord Platform
+- Expected Graduation Fall 2026
+
+
 **Master of Fine Arts, University of Alabama:** Poetry, May
 2022
 
 **Master of Composition and Rhetoric, University of Alabama:** 
 May 2022
+
 
 ## Publications and Conferences
 
