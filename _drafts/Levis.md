@@ -1,45 +1,50 @@
 ---
 layout: post
 title: Open Processing Poetry
-published: false
+published: True
 ---
 
 Larry Levis, and the Shrinking Lonesome Sestina
 ---
-Years ago, in my senior year of undergrad, I published a review of Larry Levis' **The Darkening Trapese**. A book of poems collected and published after his death, by his longtime friend and fellow poet David St. John.
+Years ago, in my senior year of undergrad, I published a review of Larry Levis' **The Darkening Trapese**. A book of poems collected and published some 20 years after his death, by his longtime friend and fellow poet David St. John.
+
+If it can be believed, I reviewd it once, as a junior in college, there on the cloistered hillside of St.Olaf, nestledin the crenels and limestones of Melby hall, where virtuous lutherans girls once learned to pour their tea.
 
 > To describe it as enjoyable would be a disservice; The Darkening Trapeze is disturbingly beautiful, the kind of beauty that grabs the reader and demands attention with the grinning brushstrokes of Levis’ long clean line
 
-Even then, I loved a semi-colon more than I should.
+Even then, I loved a semi-colon more than was good for me.
 
 Perhaps writing out this blog post, is one way of returning to my own practice, which began with this book.
 
 I hated it. 
 
-I took it from Dr. Kwon Dobbs class (herself an excellent poet and teacher). It seemed inward, navel gazing, depressed, hopelessly sad. There was something distrubing and wrong in it, and I was determined to find out what that was. 
+It was assigned reading in an advanced poetry class lead by the supportive and (to me, eager to impress her) intimidating Dr. Jennifer Kwon Dobbs. The book read as inward, navel gazing, hopelessly sad. The lines sprawled out with no seeming reason; I found no deep meaning in the military wife masturbating with a cucumber, or the repeated (and I felt, ingenuine) references to methamphetamines. There was something distrubing and wrong and cruel in Levis, and I was determined to find out what that was by reading and disliking his book. I distinctly remember critiquing it in class, though I can't remember what I said. 
 
-Often, the things that challenge me begin in anger. Not because I reject it per se, but there's something there, something I need to figure out, something that doesn't yet fit but **could**. 
+Often, I hate the things that I'll later come to rely on, appreciate, or integrate into my own thought. I get *angry* Not because I reject it per se, but there's something there, something I need to figure out, something that doesn't yet fit but **could**. 
 
+Levis was a Fresno poet; he grew up working with and watching the immigrant labor his father employed. I suppose, my own father being from Fresno, might explain the resonance I eventually felt with him Levis. (Not to mention my initial rejection). We have a shared lineage, something in him informed something in me, something fundamental that--like a lesson from a father--I was primed to reject.
 
-Levis is a Fresno poet; he grew up working with and watching the immigrant labor his father employed. I suppose, my own father being from Fresno, might explain the resonance I eventually felt with him Levis. We have a shared lineage, somethign that informed me, but I didn't grow into.
+Of course, today, the collection remains true to my heart. 
 
+As an experiment in  critical making, I wanted to try and reinterpret Levis through a digital canvass using P5.js. While simple, I foubnd the result more compelling than it had any right to be.
 
+I choose Levis' *Elegy for the Infinite Wrapped in TinFoil*. Which follows the story of a convict, still high on amphetamine, who had burned down a house. It's a beautiful poem, and thoroughly elegaic. We are thrust in media res into the ruins of a lfie: the addict is being hauled to prison, his girlfriends house smoldering  behind him.
 
+But what strikes me about this poem, is that there is something irreducibly human in the voice of the narrator: tragic, disturbing, that demands not redemption, or even empathy, but to be seen. Like fire. 
 
-As a component of critical making, I wanted to try and reinterpret Levis through a digital canvass using P5.js. While simple, I foubnd the result more compelling than it had any right to be.
+He listen's to the rain's stacatto ceasing
+On the tin roofs of the prison farm. He likes
+Fire. He liks to think of fire. It is pure,
+He thinks, & innocent, & it is like him
+In the implacable fluent rising of its body,
+Today, he is a flame. Yesterday,
+He was also a flame, & the day before.
+And the day before & the day before that.
 
-The first involved Levis' *Elegy for the Infinite Wrapped in TinFoil*. Which follows the story of a convict, still high on amphetamine, who had burned down a house. It's a beautiful poem. In some ways, its a poem for somehting that has died: the addict is being hauled to prison, the ruins of his life behind him.
-
-But what strikes me about this poem, is that there is something irreducibly human in the voice of the narrator: tragic, disturbing. 
-
-
-"He Likes fire. He likes to think of fire, it is pure, and it is innocent, and it is like him, in the 
-
-Yesterday, he was a flame, and the day before, and the day before that"
 
 The remediation, here, is simple: the words are fire, they float up over an image of what I chose to be a high-desert farmhouse, but--following Levis' roots-- perhaps should have been a single-story Fresno suburban home. I liked the desolation in the sceene however, and the floating words fit well with the repetition of the closing stanzas. Which--in both visualization, and on the page--work as a kind of invocation of fire. 
 
-In Jesus' son, there is a scene in which the Titular character fuckhead. I think, too, that the divine isn't reserved for good people; that there is something irreducible and human in the arsonist. As a young daniel said, clumsily but with conviction: "the genuine is placed like a jewel within the depths of his poetry: a pinpoint of light flickering on a darkening trapeze."
+In Jesus' son, there is a scene in which the Titular character fuckhead, stumbles into a field--high on the drugs he and his confidant stole from the hospital--into a revelation. Divinity is not reserved for good people; there is something irreducible and human in the arsonist. As a young me said of Levis. clumsily but with conviction: "the genuine is placed like a jewel within the depths of his poetry: a pinpoint of light flickering on a darkening trapeze."
 
 
 <iframe src="https://openprocessing.org/sketch/1734129/embed/" width="800" height="800"></iframe>
