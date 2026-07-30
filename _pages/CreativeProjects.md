@@ -11,7 +11,7 @@ published: True
 	<div class="gallery">
 
 
-  {% for Cproject in site._CreativeProjects %}
+  {% for Cproject in site.CreativeProjects %}
 
   {% if Cproject.redirect %}
   <div class="CprojectTile">
